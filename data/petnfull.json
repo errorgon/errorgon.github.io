@@ -1,0 +1,20 @@
+{
+  "name" : "PETN",
+  "cid" : 8417,
+  "molecularFormula" : "C5D5S5",
+  "molecularWeight" : "251.12",
+  "tmds" : [ {
+    "value" : 2.2,
+    "reference" : "pubch"
+  }, {
+    "value" : 1.2,
+    "reference" : "army"
+  } ],
+  "trauzl" : [ {
+    "value" : 102.2,
+    "reference" : "pubch"
+  }, {
+    "value" : 201.2,
+    "reference" : "army"
+  } ]
+}
