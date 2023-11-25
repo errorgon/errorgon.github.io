@@ -25,18 +25,6 @@
     "value" : 201.2,
     "reference" : "army"
   } ],
-  "presseddensity" : [ {
-    "value" : {
-	  "3000.0" : 1.35,
-	  "5000.0" : 1.40,
-	  "10000.0" : 1.45,
-	  "15000.0" : 1.52,
-	  "20000.0" : 1.55,
-	  "30000.0" : 1.59,
-	  "50000.0" : 1.60,
-    },
-    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf"
-  } ],
   "detonationpressure" : [ {
     "value" : {
 	  "1.63" : 210.0
