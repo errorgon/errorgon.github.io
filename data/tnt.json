@@ -10,6 +10,10 @@
     "value" : 1.2,
     "reference" : "army"
   } ],
+  "ballisticmortar" : [ {
+    "value" : 1.45,
+    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf"
+  } ],
   "trauzl" : [ {
     "value" : 100,
     "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf"
