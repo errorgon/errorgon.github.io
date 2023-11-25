@@ -6,5 +6,9 @@
   "tmds" : [ {
     "value" : 5.1,
     "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf"
+  } ],
+    "bombsand" : [ {
+    "value" : 18.9,
+    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf"
   } ]
 }
