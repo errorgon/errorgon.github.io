@@ -27,7 +27,7 @@
   } ],
   "detonationpressure" : [ {
     "value" : {
-	  "1.63" : 210.0
+	  "1.63" : 210.0,
     },
     "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf"
   } ],
