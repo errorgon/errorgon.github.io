@@ -25,12 +25,6 @@
     "value" : 201.2,
     "reference" : "army"
   } ],
-  "detonationpressure" : [ {
-    "value" : {
-	  "1.63" : 210.0,
-    },
-    "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf"
-  } ],
   "presseddensity" : [ {
     "value" : {
 	  "3000.0" : 1.35,
@@ -42,5 +36,11 @@
 	  "50000.0" : 1.60,
     },
     "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf"
+  } ],
+  "detonationpressure" : [ {
+    "value" : {
+	  "1.63" : 210.0
+    },
+    "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf"
   } ]
 }
