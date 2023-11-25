@@ -5,11 +5,13 @@
     "value" : 133,
     "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf"
   } ],
-  "composition" : {
-    "Aluminum" : 17.0,
-    "D-2 Wax" : 5.0,
-    "RDX" : 40.0,
-    "TNT" : 38.8
-  },
-  "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf"
+  "composition" : [ {
+    "value" : {
+      "Aluminum" : 17.0,
+      "D-2 Wax" : 5.0,
+      "RDX" : 40.0,
+      "TNT" : 38.8
+    },
+    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf"
+  } ]
 }
