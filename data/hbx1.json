@@ -5,6 +5,10 @@
     "value" : 133,
     "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf"
   } ],
+    "bombsand" : [ {
+    "value" : 48.1,
+    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf"
+  } ],
   "composition" : [ {
     "value" : {
       "Aluminum" : 17.0,
@@ -13,5 +17,11 @@
       "TNT" : 38.8
     },
     "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf"
+  } ],
+  "detonationpressure" : [ {
+    "value" : {
+	  "1.712" : 220.4
+    },
+    "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf"
   } ]
 }
