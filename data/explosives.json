@@ -2,6 +2,7 @@
   "explosives" : [ 
   "petn", 
   "rdx", 
-  "tnt" 
+  "tnt", 
+  "silverazide"
   ]
 }

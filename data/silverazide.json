@@ -1,0 +1,10 @@
+{
+  "name" : "Silver Azide",
+  "cid" : 61698,
+  "molecularFormula" : "AgN3",
+  "molecularWeight" : "149.889 ",
+  "tmds" : [ {
+    "value" : 5.1,
+    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf"
+  } ]
+}
