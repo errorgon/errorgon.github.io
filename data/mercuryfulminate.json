@@ -1,0 +1,37 @@
+{
+  "name" : "Mercury Fulminate",
+  "cid" : 12359,
+  "molecularFormula" : "C2HgN2O2",
+  "molecularWeight" : "284.63",
+  "tmds" : [ {
+    "value" : 4.43,
+    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf"
+  } ],
+  "trauzl" : [ {
+    "value" : 51,
+    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf"
+  }],
+  "bombsand" : [ {
+    "value" : 21.4,
+    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf"
+  } ],
+  "presseddensity" : [ {
+    "value" : {
+	  "3000.0" : 3.00,
+	  "5000.0" : 3.20,
+	  "10000.0" : 3.60,
+	  "12000.0" : 3.70,
+	  "15000.0" : 3.82,
+	  "20000.0" : 4.0
+    },
+    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf"
+  }, {
+    "value" : {
+	  "3000.0" : 3.00,
+	  "10000.0" : 3.60,
+	  "20000.0" : 4.0,
+	  "50000.0" : 4.3
+    },
+    "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf"
+  } ]
+}
