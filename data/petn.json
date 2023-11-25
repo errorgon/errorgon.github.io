@@ -16,5 +16,13 @@
   }, {
     "value" : 201.2,
     "reference" : "army"
+  } ],
+  "detonationpressure" : [ {
+    "value" : {
+	  1.77 : 335,
+      1.67 : 300,
+      0.99 : 87
+    },
+    "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf"
   } ]
 }
