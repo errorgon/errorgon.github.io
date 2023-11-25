@@ -1,11 +1,20 @@
 {
-  "PropertyTable": {
-    "Properties": [
-      {
-        "CID": 8376,
-        "MolecularFormula": "C7H5N3O6",
-        "MolecularWeight": "227.13"
-      }
-    ]
-  }
+  "name" : "TNT",
+  "cid" : 8376,
+  "molecularFormula" : "C7H5N3O6",
+  "molecularWeight" : "227.13",
+  "tmds" : [ {
+    "value" : 1.65,
+    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf"
+  }, {
+    "value" : 1.2,
+    "reference" : "army"
+  } ],
+  "trauzl" : [ {
+    "value" : 100,
+    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf"
+  }, {
+    "value" : 201.2,
+    "reference" : "army"
+  } ]
 }

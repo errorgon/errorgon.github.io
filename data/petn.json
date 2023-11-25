@@ -1,11 +1,20 @@
 {
-  "PropertyTable": {
-    "Properties": [
-      {
-        "CID": 6518,
-        "MolecularFormula": "C5H8N4O12",
-        "MolecularWeight": "316.14"
-      }
-    ]
-  }
+  "name" : "PETN",
+  "cid" : 6518,
+  "molecularFormula" : "C5H8N4O12",
+  "molecularWeight" : "316.14",
+  "tmds" : [ {
+    "value" : 1.77,
+    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf"
+  }, {
+    "value" : 1.2,
+    "reference" : "army"
+  } ],
+  "trauzl" : [ {
+    "value" : 173,
+    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf"
+  }, {
+    "value" : 201.2,
+    "reference" : "army"
+  } ]
 }

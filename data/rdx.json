@@ -1,11 +1,20 @@
 {
-  "PropertyTable": {
-    "Properties": [
-      {
-        "CID": 8490,
-        "MolecularFormula": "C3H6N6O6",
-        "MolecularWeight": "222.12"
-      }
-    ]
-  }
+  "name" : "RDX",
+  "cid" : 8490,
+  "molecularFormula" : "C3H6N6O6",
+  "molecularWeight" : "222.12",
+  "tmds" : [ {
+    "value" : 1.82,
+    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf"
+  }, {
+    "value" : 1.2,
+    "reference" : "army"
+  } ],
+  "trauzl" : [ {
+    "value" : 157,
+    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf"
+  }, {
+    "value" : 201.2,
+    "reference" : "army"
+  } ]
 }
