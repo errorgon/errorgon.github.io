@@ -20,11 +20,5 @@
   }, {
     "value" : 201.2,
     "reference" : "army"
-  } ],
-  "composition" : {
-    "Aluminum" : 17.0,
-    "D-2 Wax" : 5.0,
-    "RDX" : 40.0,
-    "TNT" : 38.8
-  }
+  } ]
 }
