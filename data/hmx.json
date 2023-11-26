@@ -10,6 +10,9 @@
     "bombsand" : [ {
     "value" : 18.9,
     "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf"
+  }, {
+    "value" : 125,
+    "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf"
   } ],
   "detonationpressure" : [ {
     "value" : {
@@ -20,6 +23,9 @@
   "trauzl" : [ {
     "value" : 159,
     "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf"
+  }, {
+    "value" : 165,
+    "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf"
   }],
   "ballisticmortar" : [ {
     "value" : 150,
