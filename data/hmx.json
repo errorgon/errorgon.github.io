@@ -1,0 +1,28 @@
+{
+  "name" : "HMX",
+  "cid" : 17596,
+  "molecularFormula" : "C4H8N8O8",
+  "molecularWeight" : "296.16",
+  "tmds" : [ {
+    "value" : 1.905,
+    "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf"
+  } ],
+    "bombsand" : [ {
+    "value" : 18.9,
+    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf"
+  } ],
+  "detonationpressure" : [ {
+    "value" : {
+	  "1.89" : 390.0
+    },
+    "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf"
+  } ],
+  "trauzl" : [ {
+    "value" : 159,
+    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf"
+  }],
+  "ballisticmortar" : [ {
+    "value" : 150,
+    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf"
+  } ],
+}
