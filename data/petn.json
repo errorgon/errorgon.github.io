@@ -23,6 +23,8 @@
       "1.67" : 300.0,
       "0.99" : 87.0
     },
-    "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf"
+    "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf",
+	"keyunits" : "g/cc",
+	"valueunits" : "kbar"
   } ]
 }
