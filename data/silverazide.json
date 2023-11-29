@@ -5,10 +5,12 @@
   "molecularWeight" : "149.889",
   "tmds" : [ {
     "value" : 5.1,
-    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf"
+    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
+	"units" : "g/cc"
   } ],
     "bombsand" : [ {
     "value" : 18.9,
-    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf"
+    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
+	"units" : "% TNT"
   } ]
 }

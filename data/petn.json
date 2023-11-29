@@ -5,11 +5,13 @@
   "molecularWeight" : "316.14",
   "tmds" : [ {
     "value" : 1.77,
-    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf"
+    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
+	"units" : "% TNT"
   } ],
   "trauzl" : [ {
     "value" : 173,
-    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf"
+    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
+	"units" : "% TNT"
   } ],
   "detonationpressure" : [ {
     "value" : {

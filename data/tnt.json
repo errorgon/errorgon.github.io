@@ -5,19 +5,23 @@
   "molecularWeight" : "227.13",
   "tmds" : [ {
     "value" : 1.65,
-    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf"
+    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
+	"units" : "g/cc"
   } ],
   "ballisticmortar" : [ {
     "value" : 1.45,
-    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf"
+    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
+	"units" : "% TNT"
   } ],
   "bombsand" : [ {
     "value" : 48.0,
-    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf"
+    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
+	"units" : "% TNT"
   } ],
   "trauzl" : [ {
     "value" : 100,
-    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf"
+    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
+	"units" : "% TNT"
   } ],
   "detonationpressure" : [ {
     "value" : {
