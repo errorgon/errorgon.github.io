@@ -22,5 +22,44 @@
     "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf",
 	"keyunits" : "g/cc",
 	"valueunits" : "kbar"
+  } ],
+  "presseddensity" : [ {
+    "value" : {
+	  "5000.0" : 1.575,
+	  "10000.0" : 1.638,
+	  "20000.0" : 1.710,
+	  "30000.0" : 1.725,
+	  "40000.0" : 1.740
+    },
+    "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf",
+	"keyunits" : "psi",
+	"valueunits" : "g/cc"
+  } ],
+  "bombsand" : [ {
+    "value" : 129,
+    "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf",
+	"units" : "% TNT"
+  }, {
+    "value" : 141,
+    "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf",
+	"units" : "% TNT"
+  } ],
+  "ballisticmortar" : [ {
+    "value" : 137,
+    "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf",
+	"units" : "% TNT"
+  }, {
+    "value" : 145,
+    "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf",
+	"units" : "% TNT"
+  } ],
+  "trauzl" : [ {
+    "value" : 161,
+    "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf",
+	"units" : "% TNT"
+  }, {
+    "value" : 189,
+    "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf",
+	"units" : "% TNT"
   } ]
 }
