@@ -7,10 +7,18 @@
     "value" : 1.82,
     "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
 	"units" : "g/cc"
-  } ],
+  }, {
+    "value" : 1.816,
+    "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf",
+	"units" : "g/cc"
+  }],
   "trauzl" : [ {
     "value" : 157,
     "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
+	"units" : "% TNT"
+  },{
+    "value" : 170,
+    "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf",
 	"units" : "% TNT"
   } ],
   "detonationpressure" : [ {
@@ -20,5 +28,28 @@
     "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf",
 	"keyunits" : "g/cc",
 	"valueunits" : "kbar"
+  } ],
+  "bombsand" : [ {
+    "value" : 125,
+    "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf",
+	"units" : "% TNT"
+  }, {
+    "value" : 145,
+    "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf",
+	"units" : "% TNT"
+  } ],
+  "presseddensity" : [ {
+    "value" : {
+	  "3000.0" : 1.46,
+	  "5000.0" : 1.52,
+	  "10000.0" : 1.60,
+	  "15000.0" : 1.65,
+	  "20000.0" : 1.68,
+	  "30000.0" : 1.70,
+	  "40000.0" : 1.71
+    },
+    "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf",
+	"keyunits" : "psi",
+	"valueunits" : "g/cc"
   } ]
 }
