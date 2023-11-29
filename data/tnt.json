@@ -43,6 +43,8 @@
 	  "30000.0" : 1.59,
 	  "50000.0" : 1.60
     },
-    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf"
+    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
+	"keyunits" : "psi",
+	"valueunits" : "g/cc"
   } ]
 }
