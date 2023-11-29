@@ -6,16 +6,10 @@
   "tmds" : [ {
     "value" : 1.77,
     "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf"
-  }, {
-    "value" : 1.2,
-    "reference" : "army"
   } ],
   "trauzl" : [ {
     "value" : 173,
     "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf"
-  }, {
-    "value" : 201.2,
-    "reference" : "army"
   } ],
   "detonationpressure" : [ {
     "value" : {
