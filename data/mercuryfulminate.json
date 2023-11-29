@@ -8,17 +8,31 @@
     "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf"
   } ],
   "trauzl" : [ {
-    "value" : 51,
-    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf"
-  }, {
     "value" : 37,
-    "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf"
+    "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf",
+	"units" : "% TNT"
+  }, {
+    "value" : 50,
+    "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf",
+	"units" : "% TNT"
+  }, {
+    "value" : 51,
+    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
+	"units" : "% TNT"
   }],
   "bombsand" : [ {
     "value" : 21.4,
     "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
 	"units" : "% TNT"
-  } ],
+  }, {
+    "value" : 27.3,
+    "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf",
+	"units" : "% TNT"
+  }, {
+    "value" : 59.0,
+    "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf",
+	"units" : "% TNT"
+  }  ],
   "presseddensity" : [ {
     "value" : {
 	  "3000.0" : 3.00,
