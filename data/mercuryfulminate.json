@@ -16,7 +16,8 @@
   }],
   "bombsand" : [ {
     "value" : 21.4,
-    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf"
+    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
+	"units" : "% TNT"
   } ],
   "presseddensity" : [ {
     "value" : {
