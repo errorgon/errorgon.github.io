@@ -8,6 +8,14 @@
     "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
 	"units" : "% TNT"
   } ],
+  "bomimpact" : [ {
+    "value" : {
+	  "17" : "20"
+    },
+    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
+	"keyunits" : "cm",
+	"valueunits" : "mg"
+  } ],
   "trauzl" : [ {
     "value" : 173,
     "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
