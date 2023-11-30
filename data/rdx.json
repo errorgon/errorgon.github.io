@@ -12,6 +12,14 @@
     "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf",
 	"units" : "g/cc"
   }],
+  "bomimpact" : [ {
+    "value" : {
+	  "32" : "20"
+    },
+    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
+	"keyunits" : "cm",
+	"valueunits" : "mg"
+  } ],
   "trauzl" : [ {
     "value" : 157,
     "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
