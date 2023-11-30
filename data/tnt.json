@@ -8,6 +8,21 @@
     "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
 	"units" : "g/cc"
   } ],
+  "bomimpact" : [ {
+    "value" : {
+	  "95" : "20"
+    },
+    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
+	"keyunits" : "cm",
+	"valueunits" : "mg"
+  }, {
+    "value" : {
+	  "100+" : "20"
+    },
+    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
+	"keyunits" : "cm",
+	"valueunits" : "mg"
+  } ],
   "ballisticmortar" : [ {
     "value" : 100,
     "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
