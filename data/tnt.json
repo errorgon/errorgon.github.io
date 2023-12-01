@@ -70,7 +70,7 @@
   } ],
   "vod" : [ {
     "value" : {
-	  "8180" : 1.65
+	  "6825" : 1.56
     },
     "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
 	"keyunits" : "m/s",
