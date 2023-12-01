@@ -40,6 +40,13 @@
     "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf",
 	"keyunits" : "g/cc",
 	"valueunits" : "kbar"
+  }, {
+    "value" : {
+	  "1.90" : 395.0
+    },
+    "reference" : "Gibbs and Populato, “LASL, Explosive Property Data”, UC Press, 1980",
+	"keyunits" : "g/cc",
+	"valueunits" : "kbar"
   } ],
   "trauzl" : [ {
     "value" : 145,

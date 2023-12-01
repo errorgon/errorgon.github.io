@@ -53,6 +53,28 @@
     "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf",
 	"keyunits" : "g/cc",
 	"valueunits" : "kbar"
+  }, {
+    "value" : {
+	  "1.637" : 186.6
+    },
+    "reference" : "Gibbs and Populato, “LASL, Explosive Property Data”, UC Press, 1980",
+	"keyunits" : "g/cc",
+	"valueunits" : "kbar"
+  }, {
+    "value" : {
+	  "1.63" : 200.0
+    },
+    "reference" : "B. M. Dobratz, “LLNL Explosives Handbook – Properties of Chemical Explosives and Explosive Simulants” 1985, Lawrence Livermore National Library",
+	"keyunits" : "g/cc",
+	"valueunits" : "kbar"
+  } ],
+  "vod" : [ {
+    "value" : {
+	  "8180" : 1.65
+    },
+    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
+	"keyunits" : "m/s",
+	"valueunits" : "g/cc"
   } ],
   "presseddensity" : [ {
     "value" : {
