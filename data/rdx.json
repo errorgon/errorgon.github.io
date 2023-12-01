@@ -4,6 +4,10 @@
   "molecularFormula" : "C3H6N6O6",
   "molecularWeight" : "222.12",
   "tmds" : [ {
+    "value" : 1.806,
+    "reference" : "Gibbs and Populato, “LASL, Explosive Property Data”, UC Press, 1980",
+	"units" : "g/cc"
+  }, {
     "value" : 1.82,
     "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
 	"units" : "g/cc"
@@ -11,7 +15,7 @@
     "value" : 1.816,
     "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf",
 	"units" : "g/cc"
-  }],
+  } ],
   "bomimpact" : [ {
     "value" : {
 	  "32" : "20"
@@ -53,6 +57,10 @@
     "value" : 145,
     "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf",
 	"units" : "% TNT"
+  }, {
+    "value" : 60.2,
+    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
+	"units" : "gm"
   } ],
   "presseddensity" : [ {
     "value" : {
