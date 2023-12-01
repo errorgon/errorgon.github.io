@@ -28,6 +28,21 @@
     "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
 	"units" : "% TNT"
   } ],
+  "vod" : [ {
+    "value" : {
+	  "7222" : 1.75
+    },
+    "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf",
+	"keyunits" : "m/s",
+	"valueunits" : "g/cc"
+  }, {
+    "value" : {
+	  "7224" : 1.69
+    },
+    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
+	"keyunits" : "m/s",
+	"valueunits" : "g/cc"
+  } ],
   "composition" : [ {
     "value" : {
       "Aluminum" : 17.0,

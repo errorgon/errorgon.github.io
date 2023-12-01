@@ -37,6 +37,23 @@
     "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
 	"units" : "% TNT"
   } ],
+  "vod" : [ {
+    "value" : {
+	  "5400" : 4.17
+    },
+    "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf",
+	"keyunits" : "m/s",
+	"valueunits" : "g/cc"
+  }, {
+    "value" : {
+	  "3500" : 2.0,
+	  "4250" : 3.0,
+	  "5000" : 4.0
+    },
+    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
+	"keyunits" : "m/s",
+	"valueunits" : "g/cc"
+  } ],
   "bombsand" : [ {
     "value" : 21.4,
     "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",

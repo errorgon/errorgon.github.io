@@ -63,6 +63,13 @@
 	"valueunits" : "g/cc"
   }, {
     "value" : {
+	  "8750" : 1.82
+    },
+    "reference" : "K. Oyler, “Overview Of Explosive Initiators”, U.S. Army ARDEC, METC, 2015",
+	"keyunits" : "m/s",
+	"valueunits" : "g/cc"
+  }, {
+    "value" : {
 	  "8180" : 1.65
     },
     "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
