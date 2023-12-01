@@ -41,6 +41,11 @@
     "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf",
 	"units" : "% TNT"
   } ],
+  "ballisticmortar" : [ {
+    "value" : 150,
+    "reference" : "AMCP 706-177, “Explosive Series, Properties of Explosives of Military Interest, Engineering Design Handbook”, U. S. Army Material Command Jan 1971",
+	"units" : "% TNT"
+  } ],
   "detonationpressure" : [ {
     "value" : {
 	  "1.767" : 338.0
