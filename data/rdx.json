@@ -20,6 +20,14 @@
 	"keyunits" : "cm",
 	"valueunits" : "mg"
   } ],
+  "paimpact" : [ {
+    "value" : {
+	  "8" : "18"
+    },
+    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
+	"keyunits" : "in",
+	"valueunits" : "mg"
+  } ],
   "trauzl" : [ {
     "value" : 157,
     "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",

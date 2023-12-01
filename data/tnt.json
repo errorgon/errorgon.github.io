@@ -23,6 +23,14 @@
 	"keyunits" : "cm",
 	"valueunits" : "mg"
   } ],
+  "paimpact" : [ {
+    "value" : {
+	  "14" : "17"
+    },
+    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
+	"keyunits" : "in",
+	"valueunits" : "mg"
+  } ],
   "ballisticmortar" : [ {
     "value" : 100,
     "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",

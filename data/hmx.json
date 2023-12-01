@@ -16,6 +16,14 @@
 	"keyunits" : "cm",
 	"valueunits" : "mg"
   } ],
+  "paimpact" : [ {
+    "value" : {
+	  "9" : "23"
+    },
+    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
+	"keyunits" : "in",
+	"valueunits" : "mg"
+  } ],
   "bombsand" : [ {
     "value" : 60.4,
     "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
