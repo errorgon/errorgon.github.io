@@ -102,6 +102,13 @@
     "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
 	"keyunits" : "s",
 	"valueunits" : "C"
+  }, {
+    "value" : {
+	  "5" : "215"
+    },
+    "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf",
+	"keyunits" : "s",
+	"valueunits" : "C"
   } ],
   "ballisticmortar" : [ {
     "value" : 137,

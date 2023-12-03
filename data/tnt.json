@@ -92,7 +92,10 @@
   } ],
   "explosiontemperature" : [ {
     "value" : {
-	  "5" : "325"
+	  "0.1" : "570",
+	  "1" : "520",
+	  "5" : "475",
+	  "10" : "465"
     },
     "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
 	"keyunits" : "s",

@@ -37,6 +37,24 @@
     "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
 	"units" : "% TNT"
   } ],
+  "explosiontemperature" : [ {
+    "value" : {
+	  "5" : "282",
+	  "10" : "276",
+	  "15" : "272",
+	  "20" : "267"
+    },
+    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
+	"keyunits" : "s",
+	"valueunits" : "C"
+  }, {
+    "value" : {
+	  "5" : "210"
+    },
+    "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf",
+	"keyunits" : "s",
+	"valueunits" : "C"
+  } ],
   "vod" : [ {
     "value" : {
 	  "5400" : 4.17

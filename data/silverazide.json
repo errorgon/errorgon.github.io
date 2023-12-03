@@ -25,6 +25,15 @@
 	"keyunits" : "m/s",
 	"valueunits" : "g/cc"
   }],
+  "explosiontemperature" : [ {
+    "value" : {
+	  "0.1" : "310",
+	  "5" : "290"
+    },
+    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
+	"keyunits" : "s",
+	"valueunits" : "C"
+  } ],
   "paimpact" : [ {
     "value" : {
 	  "3" : "18"

@@ -24,6 +24,16 @@
 	"keyunits" : "in",
 	"valueunits" : "mg"
   } ],
+  "explosiontemperature" : [ {
+    "value" : {
+	  "0.1" : "380",
+	  "5" : "327",
+	  "10" : "306"
+    },
+    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
+	"keyunits" : "s",
+	"valueunits" : "C"
+  } ],
   "bombsand" : [ {
     "value" : 60.4,
     "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",

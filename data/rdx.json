@@ -54,6 +54,18 @@
 	"keyunits" : "g/cc",
 	"valueunits" : "kbar"
   } ],
+  "explosiontemperature" : [ {
+    "value" : {
+	  "0.1" : "405",
+	  "1" : "316",
+	  "5" : "260",
+	  "10" : "240",
+	  "15" : "235"
+    },
+    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
+	"keyunits" : "s",
+	"valueunits" : "C"
+  } ],
   "vod" : [ {
     "value" : {
 	  "8639" : 1.767
