@@ -78,6 +78,31 @@
     "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf",
 	"units" : "% TNT"
   } ],
+  "vod" : [ {
+    "value" : {
+	  "2670" : 0.185,
+	  "2810" : 0.241,
+	  "3850" : 0.55,
+	  "6760" : 1.26,
+	  "7440" : 1.51,
+	  "8250" : 1.762,
+	  "8300" : 1.773
+    },
+    "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf",
+	"keyunits" : "m/s",
+	"valueunits" : "g/cc"
+  }],
+  "explosiontemperature" : [ {
+    "value" : {
+	  "0.1" : "272",
+	  "1" : "244",
+	  "5" : "225",
+	  "10" : "211"
+    },
+    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
+	"keyunits" : "s",
+	"valueunits" : "C"
+  } ],
   "ballisticmortar" : [ {
     "value" : 137,
     "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf",

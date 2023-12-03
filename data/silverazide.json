@@ -16,6 +16,15 @@
 	"keyunits" : "cm",
 	"valueunits" : "mg"
   } ],
+  "vod" : [ {
+    "value" : {
+	  "5740" : 4.01,
+	  "5300" : 4.13
+    },
+    "reference" : "MRL-R-815, “A Miniature Probe Technique Using a Multilayer Circuit Board for the Study of Explosive Phenomena in Primary and Secondary Explosives”, Material Research Laboratories, 1981",
+	"keyunits" : "m/s",
+	"valueunits" : "g/cc"
+  }],
   "paimpact" : [ {
     "value" : {
 	  "3" : "18"
