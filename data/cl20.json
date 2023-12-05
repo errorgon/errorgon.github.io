@@ -1,0 +1,27 @@
+{
+  "name" : "CL-20",
+  "cid" : 9889323,
+  "molecularFormula" : "C6H6N12O12",
+  "molecularWeight" : "438.19",
+  "tmds" : [ {
+    "value" : 2.044,
+    "reference" : "https://www.osti.gov/servlets/purl/1670770",
+	"units" : "g/cc"
+  } ],
+  "detonationpressure" : [ {
+    "value" : {
+	  "UNK" : 50
+    },
+    "reference" : "https://www.osti.gov/servlets/purl/1670770",
+	"keyunits" : "g/cc",
+	"valueunits" : "GPa"
+  } ],
+  "vod" : [ {
+    "value" : {
+	  "10000" : "UNK"
+    },
+    "reference" : "https://www.osti.gov/servlets/purl/1670770",
+	"keyunits" : "m/s",
+	"valueunits" : "g/cc"
+  } ]
+}
