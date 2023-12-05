@@ -32,6 +32,15 @@
 	"keyunits" : "in",
 	"valueunits" : "mg"
   } ],
+  "erlimpact" : [ {
+    "value" : {
+	  "14" : "35",
+	  "21" : "35",
+    },
+    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
+	"keyunits" : "cm",
+	"valueunits" : "mg"
+  } ],
   "trauzl" : [ {
     "value" : 157,
     "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",

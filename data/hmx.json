@@ -24,6 +24,15 @@
 	"keyunits" : "in",
 	"valueunits" : "mg"
   } ],
+  "erlimpact" : [ {
+    "value" : {
+	  "20" : "35",
+	  "21" : "35",
+    },
+    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
+	"keyunits" : "cm",
+	"valueunits" : "mg"
+  } ]
   "explosiontemperature" : [ {
     "value" : {
 	  "0.1" : "380",
