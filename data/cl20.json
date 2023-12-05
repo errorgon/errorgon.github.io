@@ -16,6 +16,14 @@
 	"keyunits" : "g/cc",
 	"valueunits" : "GPa"
   } ],
+  "erlimpact" : [ {
+    "value" : {
+	  "4" : "35"
+    },
+    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
+	"keyunits" : "cm",
+	"valueunits" : "mg"
+  } ],
   "vod" : [ {
     "value" : {
 	  "10000" : "UNK"
@@ -23,15 +31,5 @@
     "reference" : "https://www.osti.gov/servlets/purl/1670770",
 	"keyunits" : "m/s",
 	"valueunits" : "g/cc"
-  } ],
-  "erlimpact" : [ {
-    "value" : {
-	  "4" : "35",
-	  "21" : "35"
-    },
-    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
-	"keyunits" : "cm",
-	"valueunits" : "mg"
   } ]
-
 }
