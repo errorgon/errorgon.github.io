@@ -25,12 +25,13 @@
 	"keyunits" : "cm",
 	"valueunits" : "mg"
   } ],
-  "vod" : [ {
+  "ablimpact" : [ {
     "value" : {
-	  "10000" : "UNK"
+	  "1.8" : "",
+	  "3.5" : ""
     },
-    "reference" : "https://www.osti.gov/servlets/purl/1670770",
-	"keyunits" : "m/s",
-	"valueunits" : "g/cc"
+    "reference" : "https://apps.dtic.mil/sti/tr/pdf/ADA415096.pdf",
+	"keyunits" : "cm",
+	"valueunits" : ""
   } ]
 }
