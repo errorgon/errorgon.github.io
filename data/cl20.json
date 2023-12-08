@@ -7,15 +7,7 @@
     "value" : 2.044,
     "reference" : "https://www.osti.gov/servlets/purl/1670770",
 	"units" : "g/cc"
-  } ],
-  "detonationpressure" : [ {
-    "value" : {
-	  "UNK" : 50
-    },
-    "reference" : "https://www.osti.gov/servlets/purl/1670770",
-	"keyunits" : "g/cc",
-	"valueunits" : "GPa"
-  } ],
+  } ]
   "erlimpact" : [ {
     "value" : {
 	  "4" : "35",

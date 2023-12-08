@@ -41,6 +41,14 @@
 	"keyunits" : "cm",
 	"valueunits" : "mg"
   } ],
+  "ablimpact" : [ {
+    "value" : {
+	  "17" : ""
+    },
+    "reference" : "https://apps.dtic.mil/sti/tr/pdf/ADA415096.pdf",
+	"keyunits" : "cm",
+	"valueunits" : ""
+  } ],
   "trauzl" : [ {
     "value" : 157,
     "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",

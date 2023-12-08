@@ -1,16 +1,20 @@
 {
-  "name" : "HMX",
-  "cid" : 17596,
-  "molecularFormula" : "C4H8N8O8",
-  "molecularWeight" : "296.16",
+  "name" : "Lead Azide",
+  "cid" : 61600,
+  "molecularFormula" : "PbN6",
+  "molecularWeight" : "291",
   "tmds" : [ {
-    "value" : 1.905,
+    "value" : 4.80,
+    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
+	"units" : "g/cc"
+  }, {
+    "value" : 4.87,
     "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf",
 	"units" : "g/cc"
   } ],
   "bomimpact" : [ {
     "value" : {
-	  "32" : "20"
+	  "10" : "20"
     },
     "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
 	"keyunits" : "cm",
@@ -18,79 +22,69 @@
   } ],
   "paimpact" : [ {
     "value" : {
-	  "9" : "23"
+	  "3" : "30"
     },
     "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
 	"keyunits" : "in",
 	"valueunits" : "mg"
   } ],
-  "erlimpact" : [ {
-    "value" : {
-	  "20" : "35",
-	  "21" : "35"
-    },
-    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
-	"keyunits" : "cm",
-	"valueunits" : "mg"
-  } ],
-  "ablimpact" : [ {
-    "value" : {
-	  "3.5" : ""
-    },
-    "reference" : "https://apps.dtic.mil/sti/tr/pdf/ADA415096.pdf",
-	"keyunits" : "cm",
-	"valueunits" : ""
-  } ],
   "explosiontemperature" : [ {
     "value" : {
-	  "0.1" : "380",
-	  "5" : "327",
-	  "10" : "306"
+	  "0.1" : "396",
+	  "1" : "356",
+	  "5" : "340",
+	  "10" : "335",
+	  "15" : "335",
+	  "20" : "335"
     },
     "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
 	"keyunits" : "s",
 	"valueunits" : "C"
   } ],
   "bombsand" : [ {
-    "value" : 60.4,
+    "value" : 19.0,
     "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
 	"units" : "g"
   }, {
-    "value" : 125,
+    "value" : 40,
     "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf",
 	"units" : "% TNT"
-  } ],
-  "detonationpressure" : [ {
-    "value" : {
-	  "1.89" : 390.0
-    },
-    "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf",
-	"keyunits" : "g/cc",
-	"valueunits" : "kbar"
-  }, {
-    "value" : {
-	  "1.90" : 395.0
-    },
-    "reference" : "Gibbs and Populato, “LASL, Explosive Property Data”, UC Press, 1980",
-	"keyunits" : "g/cc",
-	"valueunits" : "kbar"
   } ],
   "trauzl" : [ {
-    "value" : 145,
+    "value" : 39,
     "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
 	"units" : "% TNT"
   }, {
-    "value" : 159,
+    "value" : 40,
     "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf",
 	"units" : "% TNT"
-  }, {
-    "value" : 165,
-    "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf",
-	"units" : "% TNT"
-  }],
-  "ballisticmortar" : [ {
-    "value" : 150,
+  } ],
+  "vod" : [ {
+    "value" : {
+	  "4070" : 2.0,
+	  "4630" : 3.0,
+	  "5180" : 4.0
+    },
     "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
-	"units" : "% TNT"
+	"keyunits" : "m/s",
+	"valueunits" : "g/cc"
+  }, {
+    "value" : {
+	  "5400" : 4.68
+    },
+    "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf",
+	"keyunits" : "m/s",
+	"valueunits" : "g/cc"
+  } ],
+  "presseddensity" : [ {
+    "value" : {
+	  "3000.0" : 2.62,
+	  "5000.0" : 2.71,
+	  "10000.0" : 2.96,
+	  "15000.0" : 3.07
+    },
+    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
+	"keyunits" : "psi",
+	"valueunits" : "g/cc"
   } ]
 }
