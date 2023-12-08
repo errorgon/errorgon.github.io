@@ -2,7 +2,7 @@
   "name" : "Lead Azide",
   "cid" : 61600,
   "molecularFormula" : "PbN6",
-  "molecularWeight" : "291",
+  "molecularWeight" : "291.26",
   "tmds" : [ {
     "value" : 4.80,
     "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
@@ -32,7 +32,9 @@
     "value" : {
 	  "0.1" : "396",
 	  "1" : "356",
+	  "5" : "315",
 	  "5" : "340",
+	  "5" : "345",
 	  "10" : "335",
 	  "15" : "335",
 	  "20" : "335"

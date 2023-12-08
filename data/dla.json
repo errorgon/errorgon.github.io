@@ -20,5 +20,75 @@
     "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
 	"keyunits" : "in",
 	"valueunits" : "mg"
+  } ],
+  "bombsand" : [ {
+    "value" : 13.8,
+    "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf",
+	"units" : "g"
+  }, {
+    "value" : 38,
+    "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf",
+	"units" : "% TNT"
+  }, {
+    "value" : 95,
+    "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf",
+	"units" : "% LA"
+  } ],
+  "explosiontemperature" : [ {
+    "value" : {
+	  "5" : "340"
+    },
+    "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf",
+	"keyunits" : "s",
+	"valueunits" : "C"
+  } ],
+  "paimpact" : [ {
+    "value" : {
+	  "4" : "28", 
+	  "6" : "28"
+	  
+    },
+    "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf",
+	"keyunits" : "in",
+	"valueunits" : "mg"
+  } ],
+  "bomimpact" : [ {
+    "value" : {
+	  "13" : "",
+	  "28" : ""
+    },
+    "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf",
+	"keyunits" : "cm",
+	"valueunits" : "mg"
+  } ],
+  "explosiontemperature" : [ {
+    "value" : {
+	  "5" : "275",
+	  "5" : "340"
+    },
+    "reference" : "https://apps.dtic.mil/sti/tr/pdf/AD0764340.pdf",
+	"keyunits" : "s",
+	"valueunits" : "C"
+  } ],
+  "trauzl" : [ {
+    "value" : 40,
+    "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf",
+	"units" : "% TNT"
+  }, {
+    "value" : 89,
+    "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf",
+	"units" : "% LA"
+  }, {
+    "value" : 80,
+    "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf",
+	"units" : "% Mercury Fulminate"
+  } ],
+  "presseddensity" : [ {
+    "value" : {
+	  "15000.0" : 3.14
+    },
+    "reference" : "https://www.epa.gov/sites/default/files/2015-03/documents/9546041.pdf",
+	"keyunits" : "psi",
+	"valueunits" : "g/cc"
   } ]
 }
